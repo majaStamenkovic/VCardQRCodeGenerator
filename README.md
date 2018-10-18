@@ -1,6 +1,6 @@
 # VCardQRCodeGenerator
 Implemented in C#
 
-###Used packages
+### Used packages
 Zen.Barcode.Rendering.Framework
 QRCoder
